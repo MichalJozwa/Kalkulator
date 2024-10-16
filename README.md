@@ -10,5 +10,5 @@ Kalkulator w Python na infe
 	•	Dzielenie (wybor == '4')
 
 ## TO-DO
-[] Zapętlić funckję by nie kończyła procesu po wykonaniu jednego działania.
-[] Dodać możliwość wpisywania i działania na większej ilości liczb niż 2.
+- [ ] Zapętlić funckję by nie kończyła procesu po wykonaniu jednego działania.
+- [ ] Dodać możliwość wpisywania i działania na większej ilości liczb niż 2.
