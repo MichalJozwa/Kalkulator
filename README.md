@@ -1,5 +1,9 @@
 # Kalkulator
 Kalkulator w Python na infe
+
+## Środowisko
+Program działa w każdym IDE współpracującym z językiem Python. Można skopiować kod i wkleić w program lub online.
+
 ## Wyjaśnienie
 - Pobieramy dwie liczby od użytkownika za pomocą funkcji input(). Konwertujemy te liczby na typ float, aby można było wykonywać operacje matematyczne na liczbach zmiennoprzecinkowych.
 
